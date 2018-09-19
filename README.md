@@ -7,7 +7,7 @@ Feel free to hit me up [trough my Instagram](instagram.com/blaieet) or via Mail 
 
 Here's a brief description of them:
 
-* ** **Practium 1** (uploaded): Basics on Image Processing and Manipulation 
+* **Practium 1** (uploaded): Basics on Image Processing and Manipulation 
 
 * **Practium 2**: Histograms, mask normalitzation, convolves, filters, size modification, Gaussian kernels, contour extraction,
 Sobel detector and more.
