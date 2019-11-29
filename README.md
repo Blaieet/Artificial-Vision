@@ -3,7 +3,7 @@
 This subject was organized with a total of 5 practicums. Except for the first one, the extra files for this practicums
 are too heavy to be uploaded here.
 
-Feel free to hit me up [trough my Instagram](instagram.com/blaieet) or via Mail (blai.ras.jim@gmail.com) if you want any of them. 
+Feel free to hit me up [trough my Instagram](https://www.instagram.com/blaieet/) or via Mail (blai.ras.jim@gmail.com) if you want any of them. 
 
 Here's a brief description of them:
 
